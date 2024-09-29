@@ -14,7 +14,7 @@ Titanic_Data_Analysis/
 ├── research/
 │   └── Research_Paper.md            # Research paper comparing traditional and LLM-assisted methods
 ├── README.md                        # Project documentation
-└── LICENSE                          # (Optional) License file
+
 🛠️ Tools and Libraries Used
 Python 3.7+
 Jupyter Notebook for running and documenting the analysis
